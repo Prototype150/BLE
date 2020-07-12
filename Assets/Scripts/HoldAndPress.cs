@@ -17,6 +17,7 @@ public class HoldAndPress : MonoBehaviour,IPointerDownHandler,IPointerUpHandler 
 	[SerializeField]
 	int moveSpeed = 5;
 
+
 	private void Update () 
 	{
 		if (pointerDown)

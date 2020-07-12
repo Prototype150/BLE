@@ -15,9 +15,6 @@ public class BLE_Script : MonoBehaviour {
 	public ushort Number;
 
 
-	public float irritantsNumber;
-
-
 
 
 	void Update() 
