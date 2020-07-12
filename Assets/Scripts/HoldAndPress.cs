@@ -18,6 +18,7 @@ public class HoldAndPress : MonoBehaviour,IPointerDownHandler,IPointerUpHandler 
 	int moveSpeed = 5;
 
 
+
 	private void Update () 
 	{
 		if (pointerDown)
